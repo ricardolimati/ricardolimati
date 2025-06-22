@@ -1,10 +1,11 @@
 ### 👋 Sobre Mim
 
-<p align="center">
-  <strong>👨‍💻 Programador | Full Stack Developer | Tech Enthusiast 🚀</strong>
-</p>
+Desenvolvedor Full Stack com **mais de 18 anos de experiência** na criação e manutenção de soluções digitais. Sou especialista em transformar ideias em sistemas funcionais e de alta performance.
 
----
+- 👨‍💻 **Minha Expertise:** Atuo no ciclo completo de desenvolvimento, do back-end com **PHP** e **Node.js** ao front-end com **React** e **JavaScript**.
+- 🚀 **Foco Atual:** Especializado em desenvolvimento e manutenção de ecossistemas **WordPress**, desde sites institucionais a sistemas customizados.
+- 🔧 **Paixão:** Apaixonado por tecnologia e por resolver problemas complexos de forma eficiente.
+
 
 ### 🛠️ Tecnologias & Ferramentas
 
